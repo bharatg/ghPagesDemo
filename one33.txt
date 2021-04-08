@@ -1,0 +1,4 @@
+goals
+targets
+risk
+rewards
